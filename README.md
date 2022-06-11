@@ -6,7 +6,7 @@
   <br/>
   <br/>
   
-  `solidjs` `vite` `web3js` `chrome`
+  `typescript` `solidjs` `vite` `web3js` `chrome`
   
 </div>
 
